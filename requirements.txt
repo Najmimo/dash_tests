@@ -1,0 +1,8 @@
+dash
+openpyxl
+pandas
+requests
+numpy
+dash-design-kit
+dash_bootstrap_components
+dash_table_experiments
